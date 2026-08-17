@@ -59,7 +59,7 @@ st.write(
 
 st.header("📍 Location")
 
-city_name = st.selectbox("City Name",["Osun, Nigeria", "Edo, Nigeria", "Rivers, Nigeria", "Lagos, Nigeria", "Colombo, Sri Lanka", "Chennai, India", "Delta, Nigeria", "Athens, Greece", "Others"])
+city_name = st.selectbox("City Name",["Osun, Nigeria", "Edo, Nigeria", "Rivers, Nigeria", "Kogi, Nigeria", "Lagos, Nigeria", "Colombo, Sri Lanka", "Chennai, India", "Delta, Nigeria", "Athens, Greece", "Others"])
 
 latitude = st.number_input("Latitude", min_value=-90.0, max_value=90.0, value=45.0)
 
