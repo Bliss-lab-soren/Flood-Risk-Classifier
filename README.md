@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FLOOD RISK CLASSIFIER
 
 ## Project Overview:
